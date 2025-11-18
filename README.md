@@ -21,7 +21,7 @@ Circuitos e códigos da matéria - Programação de Software Básico (UFBA - 202
 
 	1.1. Ligar Led normal 
 	1.2. Ligar Led negado
-	
+	1.3 Ligar Led normal e Ligar Led negado no mesmo arquivo
 2.Piscar Led
 
   	2.1. Piscar Led a cada 1 segundo (blink)
